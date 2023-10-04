@@ -7,7 +7,7 @@ import { App } from './App';
 const root = ReactDOM.createRoot(document.getElementById('root') as HTMLElement);
 root.render(
   <React.StrictMode>
-    <BrowserRouter basename={process.env.PUBLIC_URL}>
+    <BrowserRouter basename='http://hirokiazuma164.me'>
       <App />
     </BrowserRouter>
   </React.StrictMode>
