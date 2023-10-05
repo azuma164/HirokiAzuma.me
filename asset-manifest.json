@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/HirokiAzuma.me/static/css/main.8870acce.css",
-    "main.js": "/HirokiAzuma.me/static/js/main.afd5eded.js",
+    "main.js": "/HirokiAzuma.me/static/js/main.171a3fd6.js",
     "index.html": "/HirokiAzuma.me/index.html",
     "main.8870acce.css.map": "/HirokiAzuma.me/static/css/main.8870acce.css.map",
-    "main.afd5eded.js.map": "/HirokiAzuma.me/static/js/main.afd5eded.js.map"
+    "main.171a3fd6.js.map": "/HirokiAzuma.me/static/js/main.171a3fd6.js.map"
   },
   "entrypoints": [
     "static/css/main.8870acce.css",
-    "static/js/main.afd5eded.js"
+    "static/js/main.171a3fd6.js"
   ]
 }
