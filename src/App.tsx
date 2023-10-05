@@ -8,9 +8,9 @@ export const App = () => {
     <div>
       <Header />
       <Routes>
-        <Route index element={<Navigate to='/japanese' />} />
-        <Route path='/japanese' element={<JapanesePage />} />
-        <Route path='/english' element={<EnglishPage />} />
+        <Route index element={<Navigate to='/HirokiAzuma.me/japanese' />} />
+        <Route path='/HirokiAzuma.me/japanese' element={<JapanesePage />} />
+        <Route path='/HirokiAzuma.me/english' element={<EnglishPage />} />
         <Route path='*' element={<div className='pt-16'>Not Found</div>} />
       </Routes>
     </div>
