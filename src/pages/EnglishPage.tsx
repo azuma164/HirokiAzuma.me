@@ -1,7 +1,7 @@
 import React from 'react';
 
 export const EnglishPage = () => {
-  const imagePath = '/images/profile.jpg';
+  const imagePath = 'https://github.com/azuma164/HirokiAzuma.me/blob/main/public/images/profile.jpg?raw=true';
 
   return (
     <div className='pt-16 mx-auto max-w-screen-lg'>
@@ -34,7 +34,7 @@ export const EnglishPage = () => {
           <li className='mb-2'>
             <span className='font-bold'>The University of Tokyo</span>
             <br />
-            Master's Program in Information & Communication Engineering, Matsui Laboratory
+            Master's Program in Information & Communication Engineering, Matsui Lab.
             <br />
             2023.4 ~ Present
           </li>
@@ -62,7 +62,7 @@ export const EnglishPage = () => {
             price: 14,400,000 yen)
             <br />
             I am in charge of a software development product manager and machine learning model advisor (I couldn't
-            become a regular member due to studying abroad)
+            become a regular member due to living abroad)
             <br />
             <a className='text-blue-500' href='https://www.ipa.go.jp/jinzai/mitou/advanced/2023/gaiyou_is-1.html'>
               Details
@@ -121,8 +121,8 @@ export const EnglishPage = () => {
         </ul>
         <h2 className='text-2xl font-semibold'>Awards</h2>
         <ul className='list-disc list-inside mt-2'>
-          <li className='mb-2'>2023.10 Best Paper Award @ ICCV Workshop 2023</li>
-          <li className='mb-2'>2023.7 Best Student Paper Award @ MIRU 2023</li>
+          <li className='mb-2'>2023.10 Best Paper Award @ICCV Workshop 2023</li>
+          <li className='mb-2'>2023.7 Best Student Paper Award @MIRU 2023</li>
         </ul>
         <h2 className='text-2xl font-semibold'>Internship</h2>
         <ul className='list-disc list-inside mt-2'>

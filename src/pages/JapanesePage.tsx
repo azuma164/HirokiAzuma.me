@@ -1,7 +1,7 @@
 import React from 'react';
 
 export const JapanesePage = () => {
-  const imagePath = '/images/profile.jpg';
+  const imagePath = 'https://github.com/azuma164/HirokiAzuma.me/blob/main/public/images/profile.jpg?raw=true';
   return (
     <div className='pt-16 mx-auto max-w-screen-lg'>
       <div className='my-4 px-4 flex justify-between items-center'>
@@ -119,8 +119,8 @@ export const JapanesePage = () => {
         </ul>
         <h2 className='text-2xl font-semibold'>Awards</h2>
         <ul className='list-disc list-inside mt-2'>
-          <li className='mb-2'>2023.10 Best Paper Award @ ICCV Workshop 2023</li>
-          <li className='mb-2'>2023.7 MIRU優秀学生賞 @ MIRU 2023</li>
+          <li className='mb-2'>2023.10 Best Paper Award @ICCV Workshop 2023</li>
+          <li className='mb-2'>2023.7 MIRU優秀学生賞 @MIRU 2023</li>
         </ul>
         <h2 className='text-2xl font-semibold'>Internship</h2>
         <ul className='list-disc list-inside mt-2'>
