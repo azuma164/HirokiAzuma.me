@@ -7,7 +7,12 @@ export const App = () => {
   return (
     <div>
       <Header />
-      <JapanesePage></JapanesePage>
+      <Routes>
+        <Route index element={<Navigate to='/japanese' />} />
+        <Route path='/japanese' element={<JapanesePage />} />
+        <Route path='/english' element={<EnglishPage />} />
+        <Route path='*' element={<div className='pt-16'>Not Found</div>} />
+      </Routes>
     </div>
   );
 };
