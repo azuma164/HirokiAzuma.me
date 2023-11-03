@@ -29,7 +29,7 @@ export const JapanesePage = () => {
           /{' '}
           <a
             className='text-blue-500'
-            href='https://github.com/azuma164/HirokiAzuma.me/blob/main/public/pdf/CV_HirokiAzuma.pdf?raw=true'
+            href='https://github.com/azuma164/HirokiAzuma.me/blob/main/public/pdf/CV_en_HirokiAzuma.pdf?raw=true'
           >
             CV
           </a>
