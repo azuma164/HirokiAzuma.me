@@ -50,7 +50,7 @@ export const JapanesePage = () => {
             <br />
             KTH, The Division of Robotics, Perception and Learning (RPL)
             <br />
-            2023.8 ~現在
+            2023.8 ~ 2024.1
           </li>
           <li className='mb-2'>
             <span className='font-bold'>東京大学</span>

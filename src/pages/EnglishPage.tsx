@@ -50,7 +50,7 @@ export const EnglishPage = () => {
             <br />
             Division of Robotics, Perception and Learning (RPL)
             <br />
-            2023.8 ~ Present
+            2023.8 ~ 2024.1
           </li>
           <li className='mb-2'>
             <span className='font-bold'>The University of Tokyo (Bachelor, Japan)</span>
