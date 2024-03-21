@@ -142,6 +142,24 @@ export const EnglishPage = () => {
             </a>
           </li>
         </ul>
+        <h3 className='text-2xl font-semibold'>
+          <span className='text-lg text-gray-600'>Preprint</span>
+        </h3>
+        <ul className='list-disc list-inside mt-2'>
+          <li className='mb-2'>
+            <span className='font-bold'>ZoDi: Zero-Shot Domain Adaptation with Diffusion-Based Image Transfer</span>
+            <br />
+            <u>Hiroki Azuma</u>, Yusuke Matsui, Atsuto Maki
+            <br />
+            <a className='text-blue-500' href='https://arxiv.org/abs/2403.13652'>
+              Paper
+            </a>{' '}
+            /{' '}
+            <a className='text-blue-500' href='https://github.com/azuma164/ZoDi'>
+              Code
+            </a>
+          </li>
+        </ul>
         <h2 className='text-2xl font-semibold'>Awards</h2>
         <ul className='list-disc list-inside mt-2'>
           <li className='mb-2'>2023.10 Best Paper Award @ICCV Workshop 2023</li>
@@ -157,6 +175,14 @@ export const EnglishPage = () => {
             <br />
             Fullstack software development (Next.js, Python, Terraform, GCP) / Image processing with object detection
             models (Pytorch)
+          </li>
+          <li className='mb-2'>
+            2024.2:{' '}
+            <a className='text-blue-500' href='https://deffunction.co.jp/index.html'>
+              Sony Corporation
+            </a>
+            <br />
+            Automating video delivery using machine learning models (Pytorch)
           </li>
           <li className='mb-2'>
             2023.1 ~ 2023.7:{' '}
