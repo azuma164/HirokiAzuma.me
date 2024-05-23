@@ -120,6 +120,18 @@ export const EnglishPage = () => {
         </h3>
         <ul className='list-disc list-inside mt-2'>
           <li className='mb-2'>
+            <span className='font-bold'>ZoDi: 拡散モデルに基づく画像変換を用いたゼロショットドメイン適応</span>
+            <br />
+            <u>東大樹</u>, 松井勇佑, 牧淳人
+            <br />
+            <a className='text-blue-500' href='https://miru-committee.github.io/miru2024/'>
+              MIRU2024
+            </a>
+            , <a className='text-red-400'>Oral (Acceptance rate: approximately 31%)</a>
+          </li>
+        </ul>
+        <ul className='list-disc list-inside mt-2'>
+          <li className='mb-2'>
             <span className='font-bold'>CLIPにおけるタイポグラフィック攻撃を防ぐPrefix学習</span>
             <br />
             <u>東大樹</u>, 松井勇佑
